@@ -1,0 +1,15 @@
+# Pastas geradas pelo programa
+output/
+
+# Executáveis (Windows, Linux, Mac)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+gerador-orcamento
+
+# Arquivos de sistema e IDEs
+.vscode/
+.idea/
+Thumbs.db
